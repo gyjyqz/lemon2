@@ -18,3 +18,4 @@ def genstr():
                 f.writelines(str+'\n')
 genstr()
 print("yes")
+print("yes")
